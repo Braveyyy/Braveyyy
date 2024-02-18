@@ -3,7 +3,7 @@ Undergraduate Computer Science Student at CSU<br> <br>Building projects on the s
 
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aaouaj/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaouaj/) 
 [![Webpage](https://img.shields.io/badge/Portfolio%20Website-blue)](https://braveyyy.github.io/webpage/)
 
 # 💻 Tech Stack
