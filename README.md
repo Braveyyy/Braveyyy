@@ -2,7 +2,7 @@
 Undergraduate Computer Science Student at CSU<br>Building projects on the side whilst furthering my knowledge through various courses, such as Machine Learning, Systems Security, and Software Development.
 
 
-## 🌐 Socials:
+## 🌐 Socials: :cyclone:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aaouaj/) 
 [![Webpage](https://img.shields.io/badge/Portfolio%20Website-blue)](https://braveyyy.github.io/webpage/)
 
