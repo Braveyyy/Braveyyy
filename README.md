@@ -1,5 +1,5 @@
 # :cyclone: Adam Aouaj:
-Undergraduate Computer Science Student at CSU<br>Building projects on the side whilst furthering my knowledge through various courses, such as Machine Learning, Systems Security, and Software Development.
+Undergraduate Computer Science Student at CSU<br> <br>Building projects on the side whilst furthering my knowledge through various courses, such as Machine Learning, Systems Security, and Software Development.
 
 
 ## 🌐 Socials:
